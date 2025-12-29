@@ -10,7 +10,7 @@
 
 ## 1. 关于我们
 
-- 啊~~~~~~~~~~懒得写。by MisakaAkio
+- 这里是Minecraft客户端更新助手的的官方组织。我们想要给Minecraft服主们提供一个方便好用的软件给客户端更新模组或者其它文件。  by [MisakaAkio](https://github.com/NiuBoss123) & [Asforest](https://github.com/asforest)
 
 ## 2. 相关链接
 
